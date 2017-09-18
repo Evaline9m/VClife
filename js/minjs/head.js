@@ -1,0 +1,1 @@
+"use strict";define(["jquery","index"],function(e){return{aa:console.log(e)}});
