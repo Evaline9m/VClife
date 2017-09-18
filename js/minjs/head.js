@@ -1,1 +1,1 @@
-"use strict";define(["jquery","index"],function(e){return{aa:console.log(e)}});
+"use strict";define(["jquery"],function(t){return{position:function(){t(".head").load("../html/head.html"),t(".right").load("../html/right.html"),t(".foot").load("../html/foot.html",function(){t(".footcontain").css("background-position-x",t(window).width()/2-886),t(".containLeft").css("margin-left",t(window).width()/2-340),t(".footbottom").find("ul:first").css("margin-left",t(window).width()/2-300)})}}});

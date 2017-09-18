@@ -1,11 +1,10 @@
 
 require(["../widge/config"],function(){
 	
-	require(["jquery","head",'jqueryui'],function($){
+	require(["jquery","head",'jqueryui'],function($,head){
 		$(function(){
-			$(".head").load("../html/head.html")
 			var obj = new Obj;
-			
+			head.position();
 			obj.banner()	//轮播图
 			obj.nav()	
 			obj.hide()	
@@ -15,15 +14,11 @@ require(["../widge/config"],function(){
 			})
 			$(window).resize(function() {
 				obj.hide()
-				obj.foot()   //foot 图的位置
 			})
 			
 			
 			obj.right();//right 悬停效果
-			obj.foot()
 			
-			
-		
 		})
 		 
 		function Obj(){}
@@ -31,7 +26,7 @@ require(["../widge/config"],function(){
 		Obj.prototype = {
 			hide : function(){   //left 和 right 显示隐藏
 				let scrolltop = document.documentElement.scrollTop || document.body.scrollTop
-				if(scrolltop>=600 && $(window).width()>1000){
+				if(scrolltop>=600 && scrolltop<=14200 && $(window).width()>1000){
 					$(".left").css({"left":$(".pagecenter").offset().left-130 }).fadeIn(500)
 					$(".right").css({"left":$(".pagecenter").offset().left +$(".pagecenter").width() + 30 }).fadeIn(500)
 				}
@@ -62,7 +57,8 @@ require(["../widge/config"],function(){
 					})
 				}) 
 				$(".right").children("li:last").click(function(){
-					console.log("a")
+					document.documentElement.scrollTop = 0;
+					document.body.scrollTop = 0;
 				})
 			},
 			
@@ -104,9 +100,9 @@ require(["../widge/config"],function(){
 						$(".banner").children(".img").css({'left':"0px"});
 						Left = 0
 					}
-					console.log($(".banner").children(".img").css('left'));
+					/*console.log($(".banner").children(".img").css('left'));
 					console.log("left"+Left);
-					console.log(" ")
+					console.log(" ")*/
 				},2000)
 				
 				
@@ -129,11 +125,7 @@ require(["../widge/config"],function(){
 				}
 			},
 		
-			foot : function(){
-				$(".footcontain").css("background-position-x",$(window).width()/2 - 1772/2);
-				$(".containLeft").css("margin-left",$(window).width()/2 - 340);
-				$(".footbottom").find("ul:first").css("margin-left",$(window).width()/2 - 300);
-			}
+			
 		}
 		
 	})

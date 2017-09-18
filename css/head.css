@@ -54,6 +54,11 @@ del {
   margin-left: 8px;
 }
 
+.pagecenter {
+  width: 900px;
+  margin: 0 auto;
+}
+
 .head {
   border-bottom: 1px solid #ccc;
 }
@@ -140,6 +145,7 @@ del {
 }
 .head .headTop {
   margin-top: 10px;
+  overflow: hidden;
 }
 .head .headTop .gif {
   float: left;
@@ -178,12 +184,15 @@ del {
 .head .headTop .logoright .cart a {
   color: #fff;
 }
+.head .headBottom {
+  overflow: hidden;
+}
 .head .headBottom ul {
   height: 32px;
   text-align: center;
   line-height: 32px;
   font-size: 14px;
-  margin: 10px 0 0 100px;
+  margin-top: 10px;
   position: relative;
 }
 .head .headBottom ul li {
@@ -195,7 +204,8 @@ del {
   color: #aaa;
   font-weight: bold;
 }
-.head .headBottom ul li div.list {
+.head .headBottom ul li div.listTop {
+  display: none;
   position: absolute;
   height: 522px;
   z-index: 2;
@@ -206,24 +216,24 @@ del {
   -moz-box-shadow: #666 0px 2px 5px;
   box-shadow: #666 0px 2px 5px;
 }
-.head .headBottom ul li div.list h4 {
+.head .headBottom ul li div.listTop h4 {
   margin-top: 20px;
   line-height: 38px;
   height: 38px;
   font-size: 22px;
   text-align: left;
 }
-.head .headBottom ul li div.list ul:nth-child(0) li {
+.head .headBottom ul li div.listTop ul:nth-child(0) li {
   float: left;
   width: 223px;
   height: 53px;
   line-height: 223px;
 }
-.head .headBottom ul li div.list ul:nth-child(0) li a {
+.head .headBottom ul li div.listTop ul:nth-child(0) li a {
   font-size: 22px;
   color: #3b3b3b;
 }
-.head .headBottom ul li div.list ul:nth-child(0) li:hover a {
+.head .headBottom ul li div.listTop ul:nth-child(0) li:hover a {
   color: #82BA38;
 }
 .head .headBottom li:hover {

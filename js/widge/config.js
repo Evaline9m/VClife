@@ -4,7 +4,9 @@ requirejs.config({
 //		"head" : "http://localhost:8888/js/minjs/head"
 		"jquery" : "../minjs/jquery",
 		"head" : "../minjs/head",
-		"jqueryui":"../widge/jquery-ui"
+		"foot" : "../minjs/foot",
+		"jqueryui":"../widge/jquery-ui",
+		"template" : "../widge/template"
 	}
 });
 

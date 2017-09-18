@@ -14,7 +14,10 @@ del{
     color: #656565;
     margin-left: 8px;
 }
-
+.pagecenter{
+    width:900px;
+    margin: 0 auto;
+}
 .head{
     border-bottom: 1px solid #ccc;
     .top{
@@ -103,6 +106,7 @@ del{
     
     .headTop{
         margin-top:10px;
+        overflow: hidden;
         .gif{
             float: left;
             margin-right: 60px;
@@ -139,15 +143,16 @@ del{
             }
         }
         
-    }
+    } 
     
     .headBottom{
+        overflow: hidden;
         ul{
             height: 32px;
             text-align: center;
             line-height: 32px;
             font-size: 14px;
-            margin: 10px 0 0 100px;
+            margin-top: 10px;
             position: relative;
             li{
                 width: 100px;
@@ -157,7 +162,8 @@ del{
                    color: #aaa; 
                    font-weight: bold;
                 }
-               div.list{
+               div.listTop{
+                   display: none;
                    position: absolute;
                    height: 522px;
                    z-index: 2;

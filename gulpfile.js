@@ -39,4 +39,3 @@ gulp.task("listening", function(){
 	gulp.watch("./scss/*.scss", ["compilesass"]);
 	gulp.watch("./js/myjs/*.js", ["compileJS"]);
 })
-/****/

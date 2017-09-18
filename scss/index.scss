@@ -1,11 +1,5 @@
 @charset 'UTF-8';
 
-.pagecenter{
-    width:900px;
-    margin: 0 auto;
-}
-
-
 .banner{
     margin-top: 16px;
     height: 440px;
@@ -167,53 +161,6 @@
         background:#f2f2f2 url(../img/indeximg/left.png);
         background-position-y:  -1263px;
     }
-}
-
-.right{
-    position:fixed;
-    bottom: 20px;
-    width: 36px;
-    li{
-        background: #b3b3b3;
-        color: #fff;
-        line-height: 24px;
-        margin-bottom: 2px;
-        font-size: 12px;
-        text-align: center;
-        height: 54px;
-        .icon1{
-            height: 31px;
-            width:25px;
-            margin: 0 auto;
-            background: url(../img/indeximg/left.png);
-            background-position-y: -1218px;
-        }
-        .icon2{
-            background: url(../img/indeximg/left.png) -284px -49px;
-            height: 25px;
-            width:25px;
-            color: #fff;
-            text-align: center;
-            line-height: 25px;
-            margin: 0 auto;
-        }
-    }
-    li:first-child{
-        height: 80px;
-    }
-    li:nth-child(2) .icon1{
-        background-position-x: -75px;
-    }
-    li:nth-child(3) .icon1{
-        background-position-x: -115px;
-    }
-    li:nth-child(4) .icon1{
-        background-position-x: -162px;
-    }
-    li:last-child{
-        height: 36px;
-    }
-    
 }
 
 .discount{
@@ -542,14 +489,8 @@
     }
 }
 
-.comment{
-    margin-top: 80px;
-    border: 1px solid #e1e0e1;
-    width: 898px;
-}
-
 .letter{
-    margin-top: 80px;
+    margin: 80px 0;
     border: 1px solid #e1e0e1;
     -webkit-box-shadow: #666 0px 0px 10px;
     -moz-box-shadow: #666 0px 0px 10px;
@@ -559,114 +500,6 @@
     img{width: 100%;height: 100%;}
 }
 
-.foot{ 
-    .footcontain{
-        height: 200px;
-        background: url(../img/indeximg/foot.png);
-        
-        .containLeft{
-            float: left;
-            width: 247px;
-            .life{
-                height: 34px;
-                width: 277px;
-                margin: 40px 0 30px;
-                background: url(../img/indeximg/foot.png);
-                background-position-y: -250px;
-            }
-        }   
-        .containRight{
-            float: left;
-            width: 470px;
-            margin-left: 50px;
-            padding-top: 20px;
-        }
-        p{ 
-            font-size: 14px;
-            line-height: 18px;
-            margin-top: 10px;
-            color: #666;
-        }
-    }
 
-    .list{
-        border-bottom: 1px solid #bfbfbf;
-        height: 60px;
-        text-align: center;
-        ul{
-            overflow: hidden;
-            display: inline-block;
-            li{
-                width: 155px;
-                border-right: 1px solid #bfbfbf;
-                text-align: center;
-                float: left;
-                margin:20px 0;
-            }
-            li:last-child{
-                border-right: 0;
-            }
-        }
-    }
-
-    .footbottom{
-        
-        ul{
-            height: 100px;
-            li{
-                float: left;
-                font-size: 10px;
-                margin-top: 20px;
-            }
-            li:nth-child(1){
-                text-align: right; 
-            }
-            li:nth-child(2){
-                margin-left: 30px;
-                .img{
-                    width: 100px;
-                    height: 36px;
-                    margin-top: 16px;
-                    background: url(../img/indeximg/foot.png);
-                    background-position: -639px -204px;
-                }
-                .img2{ 
-                    img{
-                        height: 21px;
-                        width: 21px;
-                        margin:0 10px;
-                    }
-                    span{
-                        
-                    }
-                }
-            }
-            p{
-                line-height: 26px;
-                height: 26px;
-            }
-            li:nth-child(3){
-                margin: 20px 0 0 200px;
-                width: 130px;
-                p:nth-child(2){
-                    color: #696969;
-                    line-height: 22px;
-                    height: 24px;
-                    font-size: 18px;
-                }
-            }
-             li:nth-child(4){
-                margin-left: 50px;
-                 p:nth-child(2){
-                    color: #696969;
-                    line-height: 22px;
-                    height: 24px;
-                    font-size: 18px;
-                }
-            }
-        }
-    }
-
-}
 
 
