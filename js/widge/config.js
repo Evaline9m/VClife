@@ -6,7 +6,8 @@ requirejs.config({
 		"head" : "../minjs/head",
 		"foot" : "../minjs/foot",
 		"jqueryui":"../widge/jquery-ui",
-		"template" : "../widge/template"
+		"template" : "../mypluigin/template",
+		"cookie" : "../mypluigin/cookie",
 	}
 });
 
