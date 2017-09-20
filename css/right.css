@@ -1,0 +1,48 @@
+.right {
+  position: fixed;
+  bottom: 20px;
+  width: 36px;
+}
+.right li {
+  background: #b3b3b3;
+  color: #fff;
+  line-height: 24px;
+  margin-bottom: 2px;
+  font-size: 12px;
+  text-align: center;
+  height: 54px;
+}
+.right li .icon1 {
+  height: 31px;
+  width: 25px;
+  margin: 0 auto;
+  background: url(../img/indeximg/left.png);
+  background-position: 0  -1218px;
+}
+.right li .icon2 {
+  background: url(../img/indeximg/left.png) -284px -49px;
+  height: 25px;
+  width: 25px;
+  color: #fff;
+  text-align: center;
+  line-height: 25px;
+  margin: 0 auto;
+}
+.right li:first-child {
+  height: 80px;
+}
+.right li:first-child a {
+  color: #fff;
+}
+.right li:nth-child(2) .icon1 {
+  background-position: -75px -1218px;
+}
+.right li:nth-child(3) .icon1 {
+  background-position: -115px -1218px;
+}
+.right li:nth-child(4) .icon1 {
+  background-position: -162px -1218px;
+}
+.right li:last-child {
+  height: 36px;
+}

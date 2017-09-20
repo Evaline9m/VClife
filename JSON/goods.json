@@ -1,0 +1,564 @@
+{
+	"Result": true,
+	"Status": 1,
+	"Message": "保存成功！",
+	"InnerData": {
+		"Caption": "刷完后舔一下，牙齿变滑了",
+		"SpecificationInfo": "规格与参数：ABS、PP、植毛、曜石黑/象牙白、纸盒包装",
+		"ServiceCommitment": "服务承诺：0瑕疵4级质检，客服满意率99.5%",
+		"Nervous": false,
+		"IsPotter": false,
+		"OnSale": true,
+		"SalePrice": "199",
+		"PriceTag": null,
+		"PriceTags": null,
+		"ActivityPrice": "0",
+		"ActivityTag": null,
+		"ActivityEndDate": null,
+		"CommentCount": 312,
+		"GroupId": 6721,
+		"IsEmpty": false,
+		"MarketPrice": "399",
+		
+		"CommentList": [
+			{
+				"Content": "一个刷头",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "136*****852",
+				"CustomerCity": "北京",
+				"BuyCount": 819,
+				"CustomerLevelName": "VIP会员",
+				"Target": "  商品:电动牙刷      颜色:象牙白    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "蛮好的。",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "188*****783",
+				"CustomerCity": "福建",
+				"BuyCount": 271,
+				"CustomerLevelName": "VIP会员",
+				"Target": "  商品:标准刷头（2只装）      颜色:曜石黑    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "蛮好的，有点大。",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "188*****783",
+				"CustomerCity": "福建",
+				"BuyCount": 271,
+				"CustomerLevelName": "VIP会员",
+				"Target": "  商品:电动牙刷      颜色:曜石黑    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "第二次购买和老公一人一个颜色刚好，还不错，替换装也便宜",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "158*****198",
+				"CustomerCity": "上海",
+				"BuyCount": 23,
+				"CustomerLevelName": "白金会员",
+				"Target": "  商品:标准刷头（2只装）      颜色:曜石黑    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "挺好的",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "139*****638",
+				"CustomerCity": "自贡",
+				"BuyCount": 7,
+				"CustomerLevelName": "金卡会员",
+				"Target": "  商品:标准刷头（2只装）      颜色:象牙白    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "还不错",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "136*****587",
+				"CustomerCity": "江苏",
+				"BuyCount": 28,
+				"CustomerLevelName": "白金会员",
+				"Target": "  商品:电动牙刷      颜色:曜石黑    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "还不错",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "151*****976",
+				"CustomerCity": "湖北",
+				"BuyCount": 324,
+				"CustomerLevelName": "VIP会员",
+				"Target": "  商品:电动牙刷      颜色:象牙白    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "囤货中，总怕刷头不出了",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "158*****902",
+				"CustomerCity": "天津",
+				"BuyCount": 75,
+				"CustomerLevelName": "钻石会员",
+				"Target": "  商品:软毛刷头（2只装）      颜色:象牙白    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "刚用，还不错",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "137*****073",
+				"CustomerCity": "广东",
+				"BuyCount": 13,
+				"CustomerLevelName": "白金会员",
+				"Target": "  商品:电动牙刷      颜色:曜石黑    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "好用好用好用好用好用好用好用好用好用好用好用好用",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "132*****881",
+				"CustomerCity": "北京",
+				"BuyCount": 138,
+				"CustomerLevelName": "玛瑙会员",
+				"Target": "  商品:电动牙刷      颜色:象牙白    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}
+		],
+		"CommentTop5": [
+			{
+				"Content": "一个刷头",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "136*****852",
+				"CustomerCity": "北京",
+				"BuyCount": 819,
+				"CustomerLevelName": "VIP会员",
+				"Target": "  商品:电动牙刷      颜色:象牙白    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "蛮好的。",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "188*****783",
+				"CustomerCity": "福建",
+				"BuyCount": 271,
+				"CustomerLevelName": "VIP会员",
+				"Target": "  商品:标准刷头（2只装）      颜色:曜石黑    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "蛮好的，有点大。",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "188*****783",
+				"CustomerCity": "福建",
+				"BuyCount": 271,
+				"CustomerLevelName": "VIP会员",
+				"Target": "  商品:电动牙刷      颜色:曜石黑    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "第二次购买和老公一人一个颜色刚好，还不错，替换装也便宜",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "158*****198",
+				"CustomerCity": "上海",
+				"BuyCount": 23,
+				"CustomerLevelName": "白金会员",
+				"Target": "  商品:标准刷头（2只装）      颜色:曜石黑    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}, {
+				"Content": "挺好的",
+				"CreatedAt": "2017-09-18",
+				"CustomerName": "139*****638",
+				"CustomerCity": "自贡",
+				"BuyCount": 7,
+				"CustomerLevelName": "金卡会员",
+				"Target": "  商品:标准刷头（2只装）      颜色:象牙白    ",
+				"AppendContent": null,
+				"CommentImages": [],
+				"AppendCommentImages": [],
+				"AppendDate": "0001-01-01"
+			}
+		],
+		
+		"ClickCount": 20546,
+		"Code": "884516821",
+		"SpecMsgList": null,
+		"TotalSalesCount": 0,
+		"Name": "超声波电动牙刷（智能6档）",
+		"ItemIndexId": 3329,
+		"ItemInfoId": 25395,
+		"SaleType": 1,
+		"IsPresaleItem": false,
+		"IsPreSale": false,
+		"SaleStatus": 2,
+		"DeliveryRestrict": false,
+		"Headers": [
+			{
+				"ImageUrl": "/upload/AppItemHeaders/f894544c08644ba4bc4a1ad2ee20c01c.jpg",
+				"Text": null
+			}, {
+				"ImageUrl": "/upload/AppItemHeaders/92e716ecb38f472384be646d9df371af.jpg",
+				"Text": null
+			}, {
+				"ImageUrl": "/upload/AppItemHeaders/b66e6be7bb1e44a8a9641eb8ec263b4a.jpg",
+				"Text": null
+			}, {
+				"ImageUrl": "/upload/AppItemHeaders/b5f3a07f09614b4ba846de062ca1d932.jpg",
+				"Text": null
+			}, {
+				"ImageUrl": "/upload/AppItemHeaders/1f9db1b7efd748528d738d27e31c7205.jpg",
+				"Text": null
+			}
+		],
+		"Certificate": {
+			"ImageUrl": null,
+			"Text": null
+		},
+		"Details": [
+			{
+				"ImageUrl": "/upload/AppItemDetails/841c7d9cad214ee6b02ef23a4547c8d8.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/0eb67b5668a149868e409d2ab739dc35.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/1db804a8aff344aba5a8d2507872ac23.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/683d7f2027334eb0b656b089afaf1853.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/af8f974b6f594a32b3021734e07e0d6e.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/f0edd7bfe50341b8bf3ceebdf7cc5d92.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/e889f1f236ba4707bb18c96e0bc63aa1.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/2b86ae734f5a4f64af03d20923bac9db.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/a8f7a4e6f5a54f1185db589a9792e3ac.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/da309d3fb98f4382997622f49583f05f.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/ad2d3c315970499fb1cb8d43b836decc.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/328a7e96aae2435fafbb2c178ed681f1.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/fd201098408b49b5ab9e0e58a0e076c0.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/dce9cd7e8eb1428fa7476c3a26ef568c.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/e056d1f3dd3545a88cd0e07004d8b461.jpg",
+				"Text": ""
+			}, {
+				"ImageUrl": "/upload/AppItemDetails/8923e6999a254903baa7b6187803ccad.jpg",
+				"Text": ""
+			}
+		],
+		"Composition": {
+			"ImageUrl": "",
+			"Text": ""
+		},
+		"Compositions": [],
+		"Compare": {  
+			"ImageUrl": null,
+			"Text": "",
+			"OurText": "",
+			"TheirText": ""
+		},
+		"Advantages": [],
+		"UseCompare": null,
+		"StandReason": null,
+		"UseScence": null,
+		"UseStep": null,
+		"Probation": null,
+		"ShareInfo": {
+			"Title": "超声波电动牙刷（智能6档）-LifeVC丽芙家居",
+			"Content": "刷完后舔一下，牙齿变滑了",
+			"ImageUrl": "/upload/goods/1708251709264307.jpg",
+			"Url": "http://w1.lifevc.com/goitem/25395"
+		},
+		"SpecificationImages": null,
+		"GroupAttrs": {
+			"props": [
+				{
+					"imgPrev": 1,
+					"descF5": true,
+					"pid": 285,
+					"pname": "商品",
+					"vals": [
+						{
+							"vid": 10866,
+							"vname": "电动牙刷"
+						}, {
+							"vid": 16108,
+							"vname": "标准刷头（2只装）"
+						}, {
+							"vid": 16109,
+							"vname": "软毛刷头（2只装）"
+						}
+					]
+				}, {
+					"imgPrev": 1,
+					"descF5": true,
+					"pid": 5,
+					"pname": "颜色",
+					"vals": [
+						{
+							"vid": 16096,
+							"vname": "曜石黑"
+						}, {
+							"vid": 16097,
+							"vname": "象牙白"
+						}
+					]
+				}
+			],
+			"skus": {
+				";285:10866;5:16096;": {
+					"sale": 1,
+					"vIdx": [
+						0,
+						0
+					],
+					"price": "￥119",
+					"infoId": 25394,
+					"infoName": "超声波电动牙刷（智能6档）",
+					"infoImg": "/upload/AppItemExhibit/be4e0c74335e448e8477d2ea86d8bda7.jpg",
+					"colorImg": "/upload/AppItemExhibit/be4e0c74335e448e8477d2ea86d8bda7.jpg"
+				},
+				";285:10866;5:16097;": {
+					"sale": 1,
+					"vIdx": [
+						0,
+						1
+					],
+					"price": "￥119",
+					"infoId": 25395,
+					"infoName": "超声波电动牙刷（智能6档）",
+					"infoImg": "/upload/AppItemExhibit/43766049a10f494784d8c4151f2eba10.jpg",
+					"colorImg": "/upload/AppItemExhibit/43766049a10f494784d8c4151f2eba10.jpg"
+				},
+				";285:16108;5:16097;": {
+					"sale": 1,
+					"vIdx": [
+						1,
+						1
+					],
+					"price": "￥29",
+					"infoId": 25398,
+					"infoName": "超声波电动牙刷刷头替换装（2个）",
+					"infoImg": "/upload/AppItemExhibit/8911daffef064d8d8215ce9b9b522474.jpg",
+					"colorImg": "/upload/AppItemExhibit/8911daffef064d8d8215ce9b9b522474.jpg"
+				},
+				";285:16109;5:16097;": {
+					"sale": 1,
+					"vIdx": [
+						2,
+						1
+					],
+					"price": "￥29",
+					"infoId": 25399,
+					"infoName": "超声波电动牙刷刷头替换装（2个）",
+					"infoImg": "/upload/AppItemExhibit/9435cfb41f0049fa9aa6a6f67cf7515b.jpg",
+					"colorImg": "/upload/AppItemExhibit/9435cfb41f0049fa9aa6a6f67cf7515b.jpg"
+				},
+				";285:16108;5:16096;": {
+					"sale": 1,
+					"vIdx": [
+						1,
+						0
+					],
+					"price": "￥29",
+					"infoId": 25400,
+					"infoName": "超声波电动牙刷刷头替换装（2个）",
+					"infoImg": "/upload/AppItemExhibit/797d9495d36b4ef7a17fe4846521e193.jpg",
+					"colorImg": "/upload/AppItemExhibit/797d9495d36b4ef7a17fe4846521e193.jpg"
+				},
+				";285:16109;5:16096;": {
+					"sale": 1,
+					"vIdx": [
+						2,
+						0
+					],
+					"price": "￥29",
+					"infoId": 25401,
+					"infoName": "超声波电动牙刷刷头替换装（2个）",
+					"infoImg": "/upload/AppItemExhibit/f87ade4b1f5942769049a05497e2380b.jpg",
+					"colorImg": "/upload/AppItemExhibit/f87ade4b1f5942769049a05497e2380b.jpg"
+				}
+			},
+			"pvMap": {
+				"285:10866": 1,
+				"285:16108": 1,
+				"285:16109": 1
+			},
+			"selSku": ";285:10866;5:16097;"
+		},
+		"Specifications": [
+			{
+				"Name": "品名",
+				"Value": "智能声波充电牙刷/刷头替换装"
+			}, {
+				"Name": "材质",
+				"Value": "ABS、PP、植毛"
+			}, {
+				"Name": "颜色",
+				"Value": "曜石黑/象牙白"
+			}, {
+				"Name": "包装方式",
+				"Value": "纸盒包装"
+			}
+		],
+		"Notice": [
+			"第一次使用时，请将刷头的前端与主机前端对齐； ",
+			"充电底座请置于干燥阴凉处； ",
+			"如果长时间没有充电，再次充电时指示灯会6-10分钟才会亮起，属于正常现象；",
+			"每次使用后请清洁刷毛和刷头，并自然风干； ",
+			"请勿拉扯刷毛，从而导致脱落； ",
+			"牙医建议每三个月更换一次刷头。"
+		],
+		"Activities": [],
+		"PersonalTailor": true,
+		"ActivityEndPriceTag": null,
+		"BuyWith": [
+			{
+				"ItemInfoId": 26940,
+				"Name": "超细螺旋软毛牙刷（3支装）",
+				"ImageUrl": "/upload/AppItemHeaders/dc41be9880f04978aa7d589e8a359388.jpg",
+				"Code": "88071009",
+				"SalePrice": 19.00,
+				"PriceTag": "加1元多1件",
+				"PriceTags": [],
+				"CommentCount": 57,
+				"SortIndex": null,
+				"ActivityPrice": 0.0,
+				"ActivityTag": null,
+				"IsEmpty": false,
+				"Appeal": "进口螺旋刷毛，清洁力提升37%",
+				"IsPotter": false,
+				"CountdownTag": null,
+				"CountdownTime": 0.0,
+				"Uri": "inner:///item/26940",
+				"MaskImageUrl": null
+			}, {
+				"ItemInfoId": 23994,
+				"Name": "竹炭超细软毛牙刷（3支装）",
+				"ImageUrl": "/upload/AppItemHeaders/11f2fedcfbca4da98a226f7c76ecc753.jpg",
+				"Code": "85994282",
+				"SalePrice": 15.00,
+				"PriceTag": "",
+				"PriceTags": [],
+				"CommentCount": 7043,
+				"SortIndex": null,
+				"ActivityPrice": 0.0,
+				"ActivityTag": null,
+				"IsEmpty": true,
+				"Appeal": "进口竹炭软刷毛，洁齿护龈双重功效",
+				"IsPotter": false,
+				"CountdownTag": null,
+				"CountdownTime": 0.0,
+				"Uri": "inner:///item/23994",
+				"MaskImageUrl": null
+			}
+		],
+		"SaleTags": [
+			{
+				"Text": "新",
+				"Color": "FDEEEE",
+				"BGColor": "CD060F"
+			}
+		],
+		"Activity": null,
+		"Services": [],
+		"Prompts": [],
+		"ServiceIcon": [
+			{
+				"Title": "",
+				"SubTitle": "",
+				"ClassName": null,
+				"ImageUrl": "/upload/combinationchart/c6acc9db287646348b84a4cd74afd745.jpg",
+				"ImageWidth": 750,
+				"ImageHeight": 440,
+				"CountdownTag": "",
+				"CountdownTime": 0,
+				"TouchElem": [
+					{
+						"BeginXP": 0,
+						"BeginYP": 0,
+						"EndXP": 100,
+						"EndYP": 46,
+						"Uri": "http://m.lifevc.com/activity/ChangingGiftNew/8382a22876a5407f902cb96b0a29f095#s={session}"
+					}, {
+						"BeginXP": 0,
+						"BeginYP": 50,
+						"EndXP": 100,
+						"EndYP": 96,
+						"Uri": "http://m.lifevc.com/Activity/RecommendWeChat/?id=44#s={session}"
+					}
+				]
+			}, {
+				"Title": "",
+				"SubTitle": "",
+				"ClassName": null,
+				"ImageUrl": "/upload/combinationchart/dc678db46c3b45b184a07930bb294647.jpg",
+				"ImageWidth": 750,
+				"ImageHeight": 380,
+				"CountdownTag": "",
+				"CountdownTime": 0,
+				"TouchElem": [
+					{
+						"BeginXP": 0,
+						"BeginYP": 0,
+						"EndXP": 100,
+						"EndYP": 100,
+						"Uri": "javascript:void(0);"
+					}
+				]
+			}
+		],
+		"PriceTitle": null,
+		"DisplaySort": [
+			"Prompts",
+			"Services"
+		]
+	},
+	"ResultCode": null
+}

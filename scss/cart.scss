@@ -1,0 +1,114 @@
+div.center{
+    
+    
+    h4{
+        height: 103px;
+        color: #d1d1d1;
+        line-height: 103px;
+        font-size: 32px;
+
+    }
+    .header{
+        
+    }
+    .lq{}
+    table{
+        border-collapse:collapse;
+        width: 900px;
+        text-align: center;
+        thead{
+            tr{
+                height: 60px;
+                background: #efefef;
+                
+            }
+        }
+        tr:nth-child(1){
+            height: 62px;
+            text-align: left;
+            span{
+                background: #ab2c2b;
+                color: #fff;
+                margin: 0 10px 0 20px ;
+            }
+        }
+        tr:nth-child(2){
+            background: #fffaef;
+            height: 108px;
+            margin-bottom: 30px;  
+            line-height: 108px;
+        }
+        tr:nth-child(3){
+            height: 50px;
+            line-height: 50px;
+        }
+        tr:nth-child(4){
+            height: 67px;
+            line-height: 67px;
+        }
+        
+        .num{
+            margin: 0 auto;
+             li{
+                 height: 20px;
+                 float: left;
+                 width: 20px;
+                 background: #fff;
+                 line-height:20px;
+                 text-align: center;
+                 border: 1px solid #000000;
+             }
+             li:nth-child(2){
+                 background: #FFF;
+                 width: 30px;
+             }
+         }
+         tr:last-child{
+            border-bottom: 1px solid #333;
+            border-top: 1px solid #333;
+             border-bottom: 1px solid #333;
+             
+             .settleRight{
+                 
+                 div:nth-child(2){
+                     float: right;
+                     height: 70px;
+                     width: 180px;
+                     margin: -1px 0;
+                     background-color: #a7c773;
+                     color: #fff;
+                 }
+             }
+         }
+    }
+    .footer{}
+
+    .remind{
+        margin: 30px 15px 65px 0;
+        overflow: hidden;
+        font-size : 14px;
+        .remindLeft{
+            float: left;
+            margin-right: 50px;
+            width: 80px;
+            height: 80px;
+            border: 1px solid #d1d1d1;
+            background: url(../img/head/add7.png);
+            background-position: 18px -200px;
+        }
+        .remindRight{  
+            height: 24px;
+            float: left;
+            line-height: 24px;
+            color: #333;
+            p:nth-child(1){ 
+                font-size : 14px;
+                margin-bottom: 8px;
+                font-weight: 800;
+                color: #111;
+            }
+        }
+    }
+}
+
+       
